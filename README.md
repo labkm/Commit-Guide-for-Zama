@@ -1,1 +1,1 @@
-# Commit-Guide-for-Zama
+# Project Helper CLI
